@@ -13,6 +13,7 @@ matplotlib = "*"
 seaborn = "*"
 jupyter = "*"
 tensorflow = "*"
+tensorflow-hub = "*"
 
 [requires]
 python_version = "3.7"
