@@ -15,6 +15,7 @@ jupyter = "*"
 tensorflow = "*"
 tensorflow-hub = "*"
 jupyterlab = "*"
+tensorflow-gpu = "*"
 
 [requires]
 python_version = "3.7"
